@@ -1,0 +1,6 @@
+@ExaParcial_SandovalRamos_HostAddress = http://localhost:5271
+
+GET {{ExaParcial_SandovalRamos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
